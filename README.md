@@ -3,4 +3,4 @@
 
 ## Dashboard
 [Tableau Public Link](https://public.tableau.com/views/MavenTelecomChurnChallenge_16583945314820/ChurnReport2?:language=en-GB&:display_count=n&:origin=viz_share_link)
-[<img src='./Churn Report (2).png' alt='Dashboard' height='300'>](https://github.com/andy3278/MAVEN-TELECOM-Customer-Churn-Data-analysis)
+[<img src='./Churn Report (2).png' alt='Dashboard' height='800'>](https://github.com/andy3278/MAVEN-TELECOM-Customer-Churn-Data-analysis)
